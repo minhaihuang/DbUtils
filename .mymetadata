@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DbUtils"
+  id="myeclipse.1453248337011"
+  context-root="/DbUtils"
+  j2ee-spec="5.0"
+  archive="DbUtils.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
